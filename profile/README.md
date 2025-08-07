@@ -6,7 +6,7 @@ Welcome to the official GitHub organization for **The Center for Educational Dat
 
 ## About The Center
 
-![EDSI Logo](.github/logo-edsi-icon.jpg)
+![EDSI Logo](logo_edsi_icon.jpg)
 
 The **Center for Educational Data Science and Innovation (EDSI)** at the University of Maryland (UMD) is a pioneering interdisciplinary research center dedicated to transforming education through cutting-edge data science, artificial intelligence (AI), and innovative research. Housed within UMD’s College of Education, EDSI is committed to advancing education equity, effectiveness, and efficiency by leveraging the power of data and AI technologies.
 
