@@ -1,4 +1,4 @@
-# Welcome to The Center's GitHub Organization
+# Welcome to EDSI!
 
 Welcome to the official GitHub organization for **The Center for Educational Data Science and Innvoation**! This is the central hub for all projects, tools, and initiatives driven by The Center’s team, contributors, and community. Whether you are a developer, researcher, partner, or supporter, here you will find valuable resources, codebases, and collaborative projects dedicated to advancing our mission.
 
