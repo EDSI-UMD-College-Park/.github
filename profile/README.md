@@ -36,17 +36,6 @@ Our vision is to ethically harness data science and AI to shape the future of ed
 
 ---
 
-## Getting Started
-
-To get involved:
-
-1. Browse through the repositories to find projects that interest you.
-2. Check out the README files within each repo for specific setup, usage, and contribution guidelines.
-3. Join discussions via Issues or Discussions tabs to ask questions or propose ideas.
-4. Follow us for updates and contribute via pull requests following our contribution guidelines.
-
----
-
 ## Contribution Guidelines
 
 We warmly welcome contributions from the community. Please adhere to the following principles:
